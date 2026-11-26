@@ -1,2 +1,2 @@
 # CS3-for-Rookies
-How-to-CS3
+How-to-CS3, basically !
